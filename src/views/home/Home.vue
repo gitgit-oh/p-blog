@@ -193,7 +193,7 @@ import Swiper from "../../components/Swiper.vue";
 import { computed, reactive, ref } from 'vue'
 
 const tempName = reactive("EulerLin个人博客");
-const tempSwiper = reactive("人生何处不相逢，只恨知己无觅寻");
+const tempSwiper = reactive("人生何处不相逢，天涯何处觅知音");
 const harf = ref("")
 const tip = ref(false)
 const time = ref("83")
